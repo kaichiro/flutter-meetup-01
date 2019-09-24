@@ -42,7 +42,7 @@ class _perfilPageState extends State<perfilPage> {
                 ),
                 linhaCard(
                   title: "Hobbies",
-                  value: "Correr",
+                  value: "[correr, treinar]",
                 ),
               ],
             ),
